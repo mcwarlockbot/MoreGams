@@ -49,5 +49,7 @@ By using this technique, the repository includes various games, including those 
 
 I that this approach provides an enjoyable offline gaming experience for coders and gamers alike.
 
+Games added So far as of febuary 27th 
+Eagler craft
 ###### Repository created by mountain658 this README, with the assistance of ChatGPT.
 ###### Please check out my profile: [mountain658](https://github.com/mountain658) and [Mountain Game Games](https://github.com/mountain658/mountain658.github.io) at https://mountain658.github.io
